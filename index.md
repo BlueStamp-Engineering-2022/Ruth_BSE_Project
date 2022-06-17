@@ -25,6 +25,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 # Starter project 
 
 
-My starter project is the Simon says game, in which the game will light up the 4 buttons in a certain order and the user must press the buttons in that order. The project includes parts such as LED lights, battery clips, a resistor, and switches, some being soldered on and screwed on. To play the game, turn the power switch on and press a random button. Then the buttons will light up in different orders one by one. There is also a sound switch that enables a different sound for each button. 
+My starter project is the Simon says game, in which the game will light up the 4 buttons in a certain order and the user must press the buttons in that order. The project includes parts such as LED lights, battery clips, a resistor, and switches, some being soldered on and screwed on. To play the game, turn the power switch on and press a random button. Then the buttons will light up in different orders one by one. There is also a sound switch that enables a different sound for each button when it is turned on. 
 
 [![Starter project](https://i3.ytimg.com/vi/rwoCWAUw_jQ/maxresdefault.jpg "Starter Project")](https://www.youtube.com/watch?v=rwoCWAUw_jQ&t=1s "Starter Project"){:target="_blank" rel="noopener"}
