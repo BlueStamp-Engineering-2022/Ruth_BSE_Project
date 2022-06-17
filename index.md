@@ -1,5 +1,5 @@
 ﻿# Home automation using Particle and Amazon Echo
-I worked on creating a new skillset for Amazon Echo..... :>>:>>:>>:>>:>>:>>:>>:>>
+I worked on creating a new skillset for Amazon Echo
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -23,8 +23,8 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 # Starter project 
-  
 
-inserteu starter project info~~~
-My starter project is the Simon says game, in which the game will light up the buttons in a certain order and the user must press the buttons in that order. The project included parts such as annyeonghaseyo joneun bangtan sonyeondan hwangeum maknae jeon jungkook imnida :>>>
+
+My starter project is the Simon says game, in which the game will light up the 4 buttons in a certain order and the user must press the buttons in that order. The project includes parts such as LED lights, battery clips, a resistor, and switches, some being soldered on and screwed on. To play the game, turn the power switch on and press a random button. Then the buttons will light up in different orders one by one. There is also a sound switch that enables a different sound for each button. 
+
 [![Starter project](https://i3.ytimg.com/vi/rwoCWAUw_jQ/maxresdefault.jpg "Starter Project")](https://www.youtube.com/watch?v=rwoCWAUw_jQ&t=1s "Starter Project"){:target="_blank" rel="noopener"}
