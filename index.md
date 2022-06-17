@@ -1,5 +1,5 @@
 ﻿# Home automation using Particle and Amazon Echo
-I worked on creating a new skillset for Amazon Echo and connecting the Particle. 
+I worked on creating a new skillset for Amazon Echo and connecting the Particle through exploring AWS lambda and Alexa developer console. I was able to familiarize myself with AWS and Alexa developr console through troubleshooting and researching many problems I encountered. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
