@@ -27,4 +27,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 inserteu starter project info~~~
 My starter project is the Simon says game, in which the game will light up the buttons in a certain order and the user must press the buttons in that order. The project included parts such as annyeonghaseyo joneun bangtan sonyeondan hwangeum maknae jeon jungkook imnida :>>>
-[![Starter project](https://i3.ytimg.com/vi/rwoCWAUw_jQ/maxresdefault.jpg "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter project](https://i3.ytimg.com/vi/rwoCWAUw_jQ/maxresdefault.jpg "Starter Project")](https://www.youtube.com/watch?v=rwoCWAUw_jQ&t=1s "Starter Project"){:target="_blank" rel="noopener"}
