@@ -1,5 +1,5 @@
 ﻿# Home automation using Particle and Amazon Echo
-insert bio
+I worked on creating a new skillset for Amazon Echo..... :>>:>>:>>:>>:>>:>>:>>:>>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
