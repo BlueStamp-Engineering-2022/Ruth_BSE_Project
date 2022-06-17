@@ -27,4 +27,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 inserteu starter project info~~~
 My starter project is the Simon says game, in which the game will light up the buttons in a certain order and the user must press the buttons in that order. The project included parts such as annyeonghaseyo joneun bangtan sonyeondan hwangeum maknae jeon jungkook imnida :>>>
-[![Starter project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=rwoCWAUw_jQ "First Milestone"){:target="_blank" rel="noopener"}
+[![Starter project]()](https://www.youtube.com/watch?v=rwoCWAUw_jQ "First Milestone"){:target="_blank" rel="noopener"}
