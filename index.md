@@ -26,8 +26,7 @@ My first milestone:
 # Starter project 
 
 Wiring Schematic:
-![image](![image](https://user-images.githubusercontent.com/107577690/179088286-31ebdc73-07f3-4f33-8303-3e43c799b45c.png)
-)
+![image](https://user-images.githubusercontent.com/107577690/179088286-31ebdc73-07f3-4f33-8303-3e43c799b45c.png)
 
 My starter project is the Simon says game, in which the game will light up the 4 buttons in a certain order and the user must press the buttons in that order. The project includes parts such as LED lights, battery clips, a resistor, and switches, some being soldered on and screwed on. To play the game, turn the power switch on and press a random button. Then the buttons will light up in different orders one by one. There is also a sound switch that enables a different sound for each button when it is turned on. 
 
