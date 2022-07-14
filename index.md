@@ -22,7 +22,7 @@ My first milestone:
 ![image](https://user-images.githubusercontent.com/107577690/175573671-f06edda9-2735-4494-a9a7-9ce105dc6530.png)
 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/CpklxW3Em7s/maxresdefault.jpg)](https://youtu.be/CpklxW3Em7s"First Milestone"){:target="_blank" rel="noopener"}
 # Starter project 
 
 
