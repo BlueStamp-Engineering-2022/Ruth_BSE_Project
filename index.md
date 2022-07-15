@@ -1,9 +1,9 @@
 ﻿# Home automation using Particle and Amazon Echo
-I worked on creating a new skillset for Amazon Echo and connecting the Particle through exploring AWS lambda and Alexa developer console. I was able to familiarize myself with AWS and Alexa developr console through troubleshooting and researching many problems I encountered. 
+I worked on creating a new skillset for Amazon Echo and connecting the Particle through exploring AWS lambda and Alexa developer console. I was able to familiarize myself with AWS and Alexa developr console through troubleshooting and researching many problems I encountered. The maing purpose of this project is to use voice commands to enable Alexa's skill called Particle, which can turn on red and green LED lights and read the temperature and humidity using the sensor.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** | 
 |:--:|:--:|:--:|:--:|
-| Ruth Liu | Notre Dame San Jose High school | Computer Science | Rising Senior
+| Ruth Liu | Notre Dame San Jose | Computer Science | Rising Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUh8qhS4NzOG9tUWkbQ9gORu_601OH5UTQKOygAWpTqYn7YNwuNvdT7Fu_-tNHmBTvKDun_m_u1L1MqIQufEedvrbXpiSkXRbMuemDnIVJpjQ2gHirrS0kUFrk6aWoT_zApBhrf5oEc7U4H4FrAbnDz=s1474-no?authuser=0)
   
