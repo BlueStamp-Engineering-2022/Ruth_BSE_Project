@@ -1,25 +1,17 @@
 /**
  * App ID for the skill
  */
-var APP_ID = undefined; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
-
-/**
- * The AlexaSkill prototype and helper functions
- */
+var APP_ID = "ID"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 var http = require('https');
 var AlexaSkill = require('./AlexaSkill');
 
-/*
- *
- * Particle is a child of AlexaSkill.
- *
- */
+
 var Particle = function () {
     AlexaSkill.call(this, APP_ID);
 };
 
-// Extend AlexaSkill
+
 Particle.prototype = Object.create(AlexaSkill.prototype);
 Particle.prototype.constructor = Particle;
 
@@ -60,8 +52,12 @@ Particle.prototype.intentHandlers = {
 		var pinvalue = "";
 		
 		// Replace these with action device id and access token
-		var deviceid = "<<deviceid>>";
-		var accessToken = "<<accesstoken>>";
+		var deviceid = "ID";
+		var accessToken = "TOKEN";
+		
+		var sparkHst = "api.particle.io";
+		
+		console.log("Host = " + sparkHst);
 		
 		var sparkHst = "api.particle.io";
 		
@@ -96,7 +92,7 @@ Particle.prototype.intentHandlers = {
 				
 				console.log(sensor + ": " + json.return_value);
 				
-				response.tellWithCard(sensor + " is " + json.return_value + ((sensor == "temperature") ? "°" : "%"), "Particle", "Particle!");
+				response.tellWithCard(sensor + " is " + json.return_value + ((sensor == "temperature") ? "° Fahrenheit" : "%"), "Particle", "Particle!");
 			});
 		}
 		// User is asking to turn on/off lights
