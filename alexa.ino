@@ -19,7 +19,7 @@ int getTemperature(String args){
 int getHumidity(String args){
     return humidity;
 }
-
+           km
 // Turn on/off LEDs
 int controlled(String args){
     int pos = args.indexOf(',');
@@ -68,7 +68,7 @@ int controlled(String args){
 }
 
 void setup() {
-    Serial.begin(115200);
+    Serial.begin(15200);
     dht.begin();
     
     pinMode(D2, OUTPUT);
@@ -82,7 +82,7 @@ void setup() {
 
 void loop() {
     // Get temperature and humidity
-    temperature = (int)dht.readTemperature();
+    temperature = dht.convertCtoF((int)dht.readTemperature());
     humidity = (int)dht.readHumidity();
     
     Serial.println();
