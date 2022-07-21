@@ -7,12 +7,8 @@ I worked on creating a new skillset for Amazon Echo and connecting the Particle 
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUh8qhS4NzOG9tUWkbQ9gORu_601OH5UTQKOygAWpTqYn7YNwuNvdT7Fu_-tNHmBTvKDun_m_u1L1MqIQufEedvrbXpiSkXRbMuemDnIVJpjQ2gHirrS0kUFrk6aWoT_zApBhrf5oEc7U4H4FrAbnDz=s1474-no?authuser=0)
   
+
 # Final Milestone
-My final milestone: 
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
-
-# Second Milestone
 My second milestone was to add a sensor that could read the humiditiy and the temperature to the Alexa skillset Particle. For this milestone, I added the sensor to the breadboard. While adding the sensor, I continously tested the LED lights as well to check the code and wiring at least still worked for my first milestone. While working with the humidity sensor though, I had to make sure Alexa understood the voice command and the sensor, and also check the code worked. When first working with the humidity sensor, it would read "undefined" when asked for the temperature or humidity percent, or it would read "0 percent/degrees fahrenheit". My instructors worked with me to look through the code for errors and also look through past students code. After changing the wiring and editing the code, Alexa was finally able to read the sensor's humidity and temperature correctly. 
 
 [![Second Milestone](https://i3.ytimg.com/vi/6RwTehvNrl4/maxresdefault.jpg "Second Milestone")](https://youtu.be/6RwTehvNrl4){:target="_blank" rel="noopener"}
