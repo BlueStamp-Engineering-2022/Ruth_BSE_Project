@@ -23,7 +23,8 @@ For my first milestone, I worked on setting up the Alexa skillset through AWS La
 Wiring Schematic:
 ![image](https://user-images.githubusercontent.com/107577690/179088286-31ebdc73-07f3-4f33-8303-3e43c799b45c.png)
 
-![First Milestone](https://i3.ytimg.com/vi/CpklxW3Em7s/maxresdefault.jpg)
+[![First Milestone](https://i3.ytimg.com/vi/CpklxW3Em7s/maxresdefault.jpg)](https://youtu.be/CpklxW3Em7s){:target="_blank" rel="noopener"}
+
 # Starter project 
 
 
