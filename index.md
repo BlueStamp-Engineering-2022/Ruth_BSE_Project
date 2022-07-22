@@ -3,7 +3,7 @@ I worked on creating a new skillset for Amazon Echo and connecting the Particle 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** | 
 |:--:|:--:|:--:|:--:|
-| Ruth Liu | Notre Dame San Jose | Computer Science | Rising Senior
+| Ruth | Notre Dame San Jose | Computer Science | Rising Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUh8qhS4NzOG9tUWkbQ9gORu_601OH5UTQKOygAWpTqYn7YNwuNvdT7Fu_-tNHmBTvKDun_m_u1L1MqIQufEedvrbXpiSkXRbMuemDnIVJpjQ2gHirrS0kUFrk6aWoT_zApBhrf5oEc7U4H4FrAbnDz=s1474-no?authuser=0)
   
